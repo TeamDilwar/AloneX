@@ -23,7 +23,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/AnonymousX1025/AnonXMusic")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
-GIT_TOKEN = getenv("GIT_TOKEN", None)
+GIT_TOKEN = getenv("GIT_TOKEN", "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")
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AloneXAssociation")
 SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/AlonesHeaven")
